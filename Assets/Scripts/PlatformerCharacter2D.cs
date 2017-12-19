@@ -18,6 +18,7 @@ public class PlatformerCharacter2D : MonoBehaviour {
     Transform ceilingCheck;
     float ceilingRadius = .01f;
     Animator anim;
+    Rigidbody2D rigidbody2D;
 
     bool doubleJump = false;
 
@@ -26,7 +27,8 @@ public class PlatformerCharacter2D : MonoBehaviour {
         groundCheck = transform.Find("GroundCheck");
         ceilingCheck = transform.Find("CeilingCheck");
         anim = GetComponent<Animator>();
-	}
+        rigidbody2D = GetComponent<Rigidbody2D>();
+    }
 	
 	// Update is called once per frame
 	void FixedUpdate () {
@@ -70,6 +72,4 @@ public class PlatformerCharacter2D : MonoBehaviour {
         theScale.x *= -1;
         transform.localScale = theScale;
     }
-
-
 }
