@@ -14,9 +14,10 @@ public class Platformer2DUserControl : MonoBehaviour {
 
     // Update is called once per frame
     void Update() {
-        //if (CrossPlatformInput.GetButtonDown("Jump")) {
-        //    jump = true;
-        //}
+        if (Input.GetKeyDown("space"))
+        {
+            jump = true;
+        }
     }
 
     void FixedUpdate() {

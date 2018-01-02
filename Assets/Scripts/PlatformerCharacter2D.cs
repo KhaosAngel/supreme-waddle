@@ -45,7 +45,7 @@ public class PlatformerCharacter2D : MonoBehaviour {
                 crouch = true;
         }
 
-        anim.SetBool("Crouch", crouch);
+        //anim.SetBool("Crouch", crouch);
 
         if (grounded || airControl) {
             move = (crouch ? move * crouchSpeed : move);
