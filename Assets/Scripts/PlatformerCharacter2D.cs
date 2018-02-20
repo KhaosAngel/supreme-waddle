@@ -13,7 +13,7 @@ public class PlatformerCharacter2D : MonoBehaviour {
     [SerializeField] LayerMask whatIsGround;
 
     Transform groundCheck;
-    float groundedRadius = .2f;
+    public float groundedRadius = .2f;
     bool grounded = false;
     Transform ceilingCheck;
     float ceilingRadius = .01f;
@@ -40,15 +40,15 @@ public class PlatformerCharacter2D : MonoBehaviour {
 	}
 
     public void Move(float move, bool crouch, bool jump) {
-        if(!crouch && anim.GetBool("crouch")) {
-            if (Physics2D.OverlapCircle(ceilingCheck.position, ceilingRadius, whatIsGround))
-                crouch = true;
-        }
+        //if(!crouch && anim.GetBool("crouch")) {
+        //    if (Physics2D.OverlapCircle(ceilingCheck.position, ceilingRadius, whatIsGround))
+        //        crouch = true;
+        //}
 
         //anim.SetBool("Crouch", crouch);
 
         if (grounded || airControl) {
-            move = (crouch ? move * crouchSpeed : move);
+            //move = (crouch ? move * crouchSpeed : move);
             anim.SetFloat("Speed", Mathf.Abs(move));
             rigidbody2D.velocity = new Vector2(move * maxSpeed, rigidbody2D.velocity.y);
             if (move > 0 && !facingRight)

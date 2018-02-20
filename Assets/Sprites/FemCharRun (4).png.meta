@@ -1,27 +1,27 @@
 fileFormatVersion: 2
-guid: 4931d89f8d7b1a741beef8d1d26e2380
-timeCreated: 1517326752
+guid: d6fab273a6ffd754b91c9ae5d46fc545
+timeCreated: 1519139135
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: FemCharRun (2)_0
-    21300002: FemCharRun (2)_1
-    21300004: FemCharRun (2)_2
-    21300006: FemCharRun (2)_3
-    21300008: FemCharRun (2)_4
-    21300010: FemCharRun (2)_5
-    21300012: FemCharRun (2)_6
-    21300014: FemCharRun (2)_7
-    21300016: FemCharRun (2)_8
-    21300018: FemCharRun (2)_9
-    21300020: FemCharRun (2)_10
-    21300022: FemCharRun (2)_11
-    21300024: FemCharRun (2)_12
-    21300026: FemCharRun (2)_13
-    21300028: FemCharRun (2)_14
-    21300030: FemCharRun (2)_15
-    21300032: FemCharRun (2)_16
-    21300034: FemCharRun (2)_17
+    21300000: FemCharRun (4)_0
+    21300002: FemCharRun (4)_1
+    21300004: FemCharRun (4)_2
+    21300006: FemCharRun (4)_3
+    21300008: FemCharRun (4)_4
+    21300010: FemCharRun (4)_5
+    21300012: FemCharRun (4)_6
+    21300014: FemCharRun (4)_7
+    21300016: FemCharRun (4)_8
+    21300018: FemCharRun (4)_9
+    21300020: FemCharRun (4)_10
+    21300022: FemCharRun (4)_11
+    21300024: FemCharRun (4)_12
+    21300026: FemCharRun (4)_13
+    21300028: FemCharRun (4)_14
+    21300030: FemCharRun (4)_15
+    21300032: FemCharRun (4)_16
+    21300034: FemCharRun (4)_17
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -133,7 +133,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: FemCharRun (2)_0
+      name: FemCharRun (4)_0
       rect:
         serializedVersion: 2
         x: 0
@@ -147,7 +147,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: FemCharRun (2)_1
+      name: FemCharRun (4)_1
       rect:
         serializedVersion: 2
         x: 200
@@ -161,7 +161,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: FemCharRun (2)_2
+      name: FemCharRun (4)_2
       rect:
         serializedVersion: 2
         x: 400
@@ -175,7 +175,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: FemCharRun (2)_3
+      name: FemCharRun (4)_3
       rect:
         serializedVersion: 2
         x: 600
@@ -189,7 +189,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: FemCharRun (2)_4
+      name: FemCharRun (4)_4
       rect:
         serializedVersion: 2
         x: 800
@@ -203,7 +203,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: FemCharRun (2)_5
+      name: FemCharRun (4)_5
       rect:
         serializedVersion: 2
         x: 1000
@@ -217,7 +217,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: FemCharRun (2)_6
+      name: FemCharRun (4)_6
       rect:
         serializedVersion: 2
         x: 0
@@ -231,7 +231,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: FemCharRun (2)_7
+      name: FemCharRun (4)_7
       rect:
         serializedVersion: 2
         x: 200
@@ -245,7 +245,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: FemCharRun (2)_8
+      name: FemCharRun (4)_8
       rect:
         serializedVersion: 2
         x: 400
@@ -259,7 +259,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: FemCharRun (2)_9
+      name: FemCharRun (4)_9
       rect:
         serializedVersion: 2
         x: 600
@@ -273,7 +273,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: FemCharRun (2)_10
+      name: FemCharRun (4)_10
       rect:
         serializedVersion: 2
         x: 800
@@ -287,7 +287,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: FemCharRun (2)_11
+      name: FemCharRun (4)_11
       rect:
         serializedVersion: 2
         x: 1000
@@ -301,7 +301,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: FemCharRun (2)_12
+      name: FemCharRun (4)_12
       rect:
         serializedVersion: 2
         x: 0
@@ -315,7 +315,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: FemCharRun (2)_13
+      name: FemCharRun (4)_13
       rect:
         serializedVersion: 2
         x: 200
@@ -329,7 +329,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: FemCharRun (2)_14
+      name: FemCharRun (4)_14
       rect:
         serializedVersion: 2
         x: 400
@@ -343,7 +343,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: FemCharRun (2)_15
+      name: FemCharRun (4)_15
       rect:
         serializedVersion: 2
         x: 600
@@ -357,7 +357,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: FemCharRun (2)_16
+      name: FemCharRun (4)_16
       rect:
         serializedVersion: 2
         x: 800
@@ -371,7 +371,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: FemCharRun (2)_17
+      name: FemCharRun (4)_17
       rect:
         serializedVersion: 2
         x: 1000
